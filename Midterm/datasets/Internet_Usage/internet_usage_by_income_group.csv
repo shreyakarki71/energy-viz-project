@@ -1,0 +1,265 @@
+Income Group,Year,Internet Usage (% of population)
+High income,1960,
+High income,1961,
+High income,1962,
+High income,1963,
+High income,1964,
+High income,1965,
+High income,1966,
+High income,1967,
+High income,1968,
+High income,1969,
+High income,1970,
+High income,1971,
+High income,1972,
+High income,1973,
+High income,1974,
+High income,1975,
+High income,1976,
+High income,1977,
+High income,1978,
+High income,1979,
+High income,1980,
+High income,1981,
+High income,1982,
+High income,1983,
+High income,1984,
+High income,1985,
+High income,1986,
+High income,1987,
+High income,1988,
+High income,1989,
+High income,1990,0.062129753086419756
+High income,1991,0.4041707407407408
+High income,1992,0.5843142058823529
+High income,1993,0.7101295238095238
+High income,1994,1.2178926530612246
+High income,1995,2.0306338095238097
+High income,1996,3.360050704225352
+High income,1997,5.968240845070422
+High income,1998,9.59705633802817
+High income,1999,14.465750000000002
+High income,2000,20.55661527027027
+High income,2001,25.145904324324324
+High income,2002,31.263293066666666
+High income,2003,36.02701351351351
+High income,2004,40.45035067567567
+High income,2005,44.16057973333333
+High income,2006,48.416880266666666
+High income,2007,53.00302533333333
+High income,2008,57.214904
+High income,2009,60.72110133333333
+High income,2010,63.87594133333334
+High income,2011,66.6194025974026
+High income,2012,70.174628
+High income,2013,73.43504657534247
+High income,2014,75.71854383561644
+High income,2015,77.60842739726029
+High income,2016,80.15936666666667
+High income,2017,81.62252467532468
+High income,2018,83.76188032786885
+High income,2019,85.53246666666666
+High income,2020,87.93150923076924
+High income,2021,89.92364923076923
+High income,2022,90.97270153846154
+High income,2023,91.6304609375
+High income,2024,92.72182333333333
+High income,2025,
+Low income,1960,
+Low income,1961,
+Low income,1962,
+Low income,1963,
+Low income,1964,
+Low income,1965,
+Low income,1966,
+Low income,1967,
+Low income,1968,
+Low income,1969,
+Low income,1970,
+Low income,1971,
+Low income,1972,
+Low income,1973,
+Low income,1974,
+Low income,1975,
+Low income,1976,
+Low income,1977,
+Low income,1978,
+Low income,1979,
+Low income,1980,
+Low income,1981,
+Low income,1982,
+Low income,1983,
+Low income,1984,
+Low income,1985,
+Low income,1986,
+Low income,1987,
+Low income,1988,
+Low income,1989,
+Low income,1990,0.0
+Low income,1991,0.0
+Low income,1992,0.0
+Low income,1993,0.0
+Low income,1994,0.0
+Low income,1995,0.0013422222222222223
+Low income,1996,0.004117611111111111
+Low income,1997,0.019375608695652174
+Low income,1998,0.04161882608695652
+Low income,1999,0.1062
+Low income,2000,0.1574784743478261
+Low income,2001,0.21969619875
+Low income,2002,0.415810225
+Low income,2003,0.600401052173913
+Low income,2004,0.8199810086956522
+Low income,2005,1.1253074545454547
+Low income,2006,1.48587465
+Low income,2007,2.190060375
+Low income,2008,2.4207643478260867
+Low income,2009,3.1710386956521743
+Low income,2010,3.9213636363636364
+Low income,2011,4.292926086956522
+Low income,2012,4.924803478260869
+Low income,2013,5.70714
+Low income,2014,6.709929130434783
+Low income,2015,7.907110434782608
+Low income,2016,10.240230833333333
+Low income,2017,12.013514347826087
+Low income,2018,14.040804500000002
+Low income,2019,16.31688619047619
+Low income,2020,17.41004818181818
+Low income,2021,20.221444444444444
+Low income,2022,22.83007894736842
+Low income,2023,24.167666666666666
+Low income,2024,8.94983
+Low income,2025,
+Lower middle income,1960,
+Lower middle income,1961,
+Lower middle income,1962,
+Lower middle income,1963,
+Lower middle income,1964,
+Lower middle income,1965,
+Lower middle income,1966,
+Lower middle income,1967,
+Lower middle income,1968,
+Lower middle income,1969,
+Lower middle income,1970,
+Lower middle income,1971,
+Lower middle income,1972,
+Lower middle income,1973,
+Lower middle income,1974,
+Lower middle income,1975,
+Lower middle income,1976,
+Lower middle income,1977,
+Lower middle income,1978,
+Lower middle income,1979,
+Lower middle income,1980,
+Lower middle income,1981,
+Lower middle income,1982,
+Lower middle income,1983,
+Lower middle income,1984,
+Lower middle income,1985,
+Lower middle income,1986,
+Lower middle income,1987,
+Lower middle income,1988,
+Lower middle income,1989,
+Lower middle income,1990,0.0
+Lower middle income,1991,0.0
+Lower middle income,1992,5.55e-05
+Lower middle income,1993,0.00039799999999999997
+Lower middle income,1994,0.0045298
+Lower middle income,1995,0.0161866
+Lower middle income,1996,0.043258361111111115
+Lower middle income,1997,0.123099025
+Lower middle income,1998,0.27286222222222223
+Lower middle income,1999,0.49602608333333337
+Lower middle income,2000,0.9587512127659574
+Lower middle income,2001,1.3033567648367346
+Lower middle income,2002,1.7677615858799998
+Lower middle income,2003,2.5288620591836732
+Lower middle income,2004,3.5856655979591836
+Lower middle income,2005,4.448724534
+Lower middle income,2006,5.43616636
+Lower middle income,2007,6.620049659999999
+Lower middle income,2008,8.018239591836734
+Lower middle income,2009,9.565510204081633
+Lower middle income,2010,12.083877551020409
+Lower middle income,2011,13.99340857142857
+Lower middle income,2012,16.062422448979593
+Lower middle income,2013,18.300408163265306
+Lower middle income,2014,21.349358000000002
+Lower middle income,2015,24.6651304
+Lower middle income,2016,28.462062200000002
+Lower middle income,2017,32.6804214
+Lower middle income,2018,38.28114
+Lower middle income,2019,41.46448541666667
+Lower middle income,2020,46.64722127659574
+Lower middle income,2021,52.06972222222222
+Lower middle income,2022,54.13476739130435
+Lower middle income,2023,56.70703829787234
+Lower middle income,2024,59.563100000000006
+Lower middle income,2025,70.0
+Upper middle income,1960,
+Upper middle income,1961,
+Upper middle income,1962,
+Upper middle income,1963,
+Upper middle income,1964,
+Upper middle income,1965,
+Upper middle income,1966,
+Upper middle income,1967,
+Upper middle income,1968,
+Upper middle income,1969,
+Upper middle income,1970,
+Upper middle income,1971,
+Upper middle income,1972,
+Upper middle income,1973,
+Upper middle income,1974,
+Upper middle income,1975,
+Upper middle income,1976,
+Upper middle income,1977,
+Upper middle income,1978,
+Upper middle income,1979,
+Upper middle income,1980,
+Upper middle income,1981,
+Upper middle income,1982,
+Upper middle income,1983,
+Upper middle income,1984,
+Upper middle income,1985,
+Upper middle income,1986,
+Upper middle income,1987,
+Upper middle income,1988,
+Upper middle income,1989,
+Upper middle income,1990,0.0
+Upper middle income,1991,0.002815275
+Upper middle income,1992,0.0078604
+Upper middle income,1993,0.01920614285714286
+Upper middle income,1994,0.03135164
+Upper middle income,1995,0.08293235128205129
+Upper middle income,1996,0.21315977272727274
+Upper middle income,1997,0.40162444444444445
+Upper middle income,1998,0.8992565217391304
+Upper middle income,1999,1.504530612244898
+Upper middle income,2000,2.7656793800000004
+Upper middle income,2001,3.7102052800000003
+Upper middle income,2002,5.934588254901961
+Upper middle income,2003,7.358647808510638
+Upper middle income,2004,9.781343679999999
+Upper middle income,2005,11.525703862745097
+Upper middle income,2006,13.544061807692307
+Upper middle income,2007,15.88310641509434
+Upper middle income,2008,18.74853716981132
+Upper middle income,2009,22.28509433962264
+Upper middle income,2010,26.249811320754716
+Upper middle income,2011,30.256516981132073
+Upper middle income,2012,34.33786037735849
+Upper middle income,2013,38.14254150943396
+Upper middle income,2014,42.89556037735849
+Upper middle income,2015,47.20257115384615
+Upper middle income,2016,51.31606923076923
+Upper middle income,2017,55.920852830188686
+Upper middle income,2018,61.455938775510205
+Upper middle income,2019,65.21316
+Upper middle income,2020,70.56761960784314
+Upper middle income,2021,75.01516538461539
+Upper middle income,2022,77.02861923076924
+Upper middle income,2023,79.20402884615383
+Upper middle income,2024,87.3215625
+Upper middle income,2025,
